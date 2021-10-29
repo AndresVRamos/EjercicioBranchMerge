@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "El siguiente archivo se compone en una estructura basada en el patron Modelo-Vista
+Controlador, esta incluye tres distintos directorios los cuales conforman cada parte
+del patron (Modelo, Vista y Controlador). Tambien incluimos archivos dentro de estos
+directorios los cuales le daran su funcionamiento. Finalmente implementamos un patron de 
+diseño basado en la herramienta Prototype"
